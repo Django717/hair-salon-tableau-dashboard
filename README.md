@@ -47,8 +47,8 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.jpg)
-![Revenue](images/revenue_by_category.png)
+![Dashboard](Images/dashboard.jpg)
+![Revenue](Images/chart_revenue_by_category.png)
 ---
 
 ## 🚀 Project Structure
